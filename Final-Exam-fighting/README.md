@@ -43,7 +43,7 @@
 ### 原码一位乘
 
 <details>
-    <summary>&emsp;&emsp;【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
+    <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
     <br>
     <img src="pics/bookcut.jpg">
 </details>
