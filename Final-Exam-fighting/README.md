@@ -12,6 +12,7 @@
 
 &emsp;&emsp;💡 教程选自 《计算机组成与结构》（第5版） 王爱英 主编. 计算机操作系统[M]. 清华大学出版社, 2013. 
 
+<br>
 <div align="center">
     <img src="pics/cutline.gif" width="50">
 </div>
