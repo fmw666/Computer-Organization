@@ -85,8 +85,11 @@
   
   - [P241-10.5节 总线结构](#总线结构)
 
-
-
+<br>
+<div align="center">
+    <img src="pics/cutline.gif" width="50">
+    <h2>第三章--运算方法和运算部件</h2>
+</div>
 
 ### 原码一位乘
 
@@ -96,3 +99,38 @@
     <img src="pics/bookcut.jpg">
 </details>
   
+### 补码一位乘
+
+<details>
+    <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
+    <br>
+    <img src="pics/bookcut.jpg">
+</details>
+
+### 加减交替法
+
+<details>
+    <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
+    <br>
+    <img src="pics/bookcut.jpg">
+</details>
+
+### 奇偶校验码
+
+<details>
+    <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
+    <br>
+    <img src="pics/bookcut.jpg">
+</details>
+
+<br>
+<div align="center">
+    <img src="pics/cutline.gif" width="50">
+    <h2>第四章--主存储器</h2>
+</div>
+
+### 读/写存储器
+
+### 非易失性半导体存储器
+
+### 存储器的组成与控制
