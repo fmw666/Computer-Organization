@@ -94,7 +94,7 @@
     <a href="#-考点罗列整理">返回顶端目录⬆</a>
 </div>
 
-### ✏ 原码一位乘
+### 🔍 原码一位乘
 
 <details>
     <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
@@ -102,7 +102,7 @@
     <img src="pics/bookcut.jpg">
 </details>
   
-### ✏ 补码一位乘
+### 🔍 补码一位乘
 
 <details>
     <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
@@ -110,7 +110,7 @@
     <img src="pics/bookcut.jpg">
 </details>
 
-### ✏ 加减交替法
+### 🔍 加减交替法
 
 <details>
     <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
@@ -118,7 +118,7 @@
     <img src="pics/bookcut.jpg">
 </details>
 
-### ✏ 奇偶校验码
+### 🔍 奇偶校验码
 
 <details>
     <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
