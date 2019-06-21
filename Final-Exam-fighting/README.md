@@ -2,8 +2,10 @@
 
 > *我们只为了 **不挂科** 和 **高分** 做准备！*
 
+<br>
 <div align="center">
-    <img src="pics/bookcut.jpg" width="500">
+    <img src="pics/bookcut.jpg" width="300">
 </div>
+<br>
 
 &emsp;&emsp;💡 教程选自 《计算机组成与结构》（第5版） 王爱英 主编. 计算机操作系统[M]. 清华大学出版社, 2013. 
