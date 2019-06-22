@@ -429,7 +429,7 @@
 <details>
     <summary>【例题8.3】假设某磁盘存储器的平均找道时间为 t<sub>s</sub>，转速为每分钟 r 转，每磁道容量为 N 个字，每信息块为 n 个字。试推导写出一个信息块所需总时间 t<sub>B</sub> 的计算公式。（点击查看答案）</summary>
     <br>
-    <img src="pics/8-3-ans.png">
+    <img src="pics/8-3-ans.jpg" width=400>
     <br>
 </details>
 
