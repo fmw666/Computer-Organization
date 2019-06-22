@@ -102,6 +102,7 @@
     <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
     <br>
     <img src="pics/3-17-ans.png">
+    <br>
 </details>
   
 #### 🔍 补码一位乘
@@ -110,6 +111,7 @@
     <summary>【例题3.18】用补码一位乘计算 X = 0.1010 和 Y = -0.0110 的积 X·Y。（点击查看答案）</summary>
     <br>
     <img src="pics/3-18-ans.png">
+    <br>
 </details>
 
 #### 🔍 加减交替法
@@ -118,13 +120,16 @@
     <summary>【例题3.19】X = -0.10110，Y = 0.11111，用加减交替法原码一位除计算 X/Y 的商及余数。（点击查看答案）</summary>
     <br>
     <img src="pics/3-19-ans.png">
+    <br>
 </details>
 
 #### 🔍 奇偶校验码
 
 <details>
     <summary>【例题3.25】如果采用偶校验，下述两个数据的校验位的值是什么？（点击查看答案）<br>&emsp;&emsp;（1） 0101010&emsp;&emsp;（2）0011011</summary>
+    <br>
     <a href="#welcome">答：采用偶校验即有效信息位数值 1 的个数加上校验位数值 1 的个数要为偶数个。</a><br>&emsp;&emsp;<a href="#welcome">（1）中，有效信息位数值 1 的个数为3，所以校验位为 1，方能补齐偶数个数值 1。同理（2）校验位为 0。</a>
+    <br>
 </details>
 
 <br>
