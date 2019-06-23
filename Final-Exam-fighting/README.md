@@ -188,11 +188,31 @@
 **答：** 如一片 16Kx8 位的存储芯片，其地址范围 16K=2<sup>14</sup>，需要 14 位二进制位来表示，即地址线位数为 14。其中数据位数即为 16Kx8 的数字量 8
 ，即数据线位数为 8。
 
-+ 位扩展法
+#### 存储器容量扩展方法
 
-+ 字扩展法
++ [**位扩展法**](#welcome)
 
-+ 字位同时扩展法
+&emsp;&emsp;位扩展指的是用多个存储器芯片对[字长](#welcome)进行扩充。
+
+<div align=center>
+    <img src="pics/bit-extension.jpg" width=600>
+</div>
+
++ [**字扩展法**](#welcome)
+
+&emsp;&emsp;字扩展指的是增加存储器中[字](#welcome)的数量。利用片选信号来选择各芯片的地址范围（即选中哪一片芯片）
+
+<div align=center>
+    <img src="pics/word-extension.jpg" width=600>
+</div>
+
++ [**字位同时扩展法**](#welcome)
+
+&emsp;&emsp;实际存储器往往需要[字](#welcome)向和[位](#welcome)向同时扩充。若一个存储器容量为 M × N 位，使用 L × K 位存储器芯片，则需要的芯片个数为：(M / L) × (N / K)。
+
+<div align=center>
+    <img src="pics/bit-and-word-extension.jpg" width=600>
+</div>
 
 #### 课后例题
 
