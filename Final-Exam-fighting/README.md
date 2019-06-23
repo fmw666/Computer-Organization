@@ -203,7 +203,7 @@
 &emsp;&emsp;字扩展指的是增加存储器中[字](#welcome)的数量。利用片选信号来选择各芯片的地址范围（即选中哪一片芯片）
 
 <div align=center>
-    <img src="pics/word-extension.jpg" width=600>
+    <img src="pics/word-extension.jpg" width=400>
 </div>
 
 + [**字位同时扩展法**](#welcome)
