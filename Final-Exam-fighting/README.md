@@ -505,14 +505,15 @@
 
 &emsp;&emsp;&emsp;&emsp;通信总线是在计算机系统之间或计算机系统与其他系统（如远程通信设备、测试设备）之间传送信息的总线。
 
-<br><br><br><br>
+<br><br>
 <div align="center">
     <img src="pics/cutline.gif" width="50">
 </div>
+<br><br>
 
 &emsp;&emsp; 写在最后：大家一起加油吧！ >_<
 
-<br><br><br>
+<br>
 <div align="center">
     -完-
 </div>
