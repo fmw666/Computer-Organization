@@ -211,7 +211,7 @@
 &emsp;&emsp;实际存储器往往需要[字](#welcome)向和[位](#welcome)向同时扩充。若一个存储器容量为 M × N 位，使用 L × K 位存储器芯片，则需要的芯片个数为：(M / L) × (N / K)。
 
 <div align=center>
-    <img src="pics/bit-and-word-extension.jpg" width=600>
+    <img src="pics/bit-and-word-extension.jpg" width=500>
 </div>
 
 #### 课后例题
