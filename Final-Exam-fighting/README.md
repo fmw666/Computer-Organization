@@ -101,7 +101,7 @@
 <details>
     <summary>【例题3.17】用原码一位乘计算 X = 0.1101 和 Y = -0.1011 的积 X·Y。（点击查看答案）</summary>
     <br>
-    <img src="pics/3-17-ans.png">
+    <img src="pics/3-17-ans.jpg" width=600>
     <br>
 </details>
   
@@ -110,7 +110,7 @@
 <details>
     <summary>【例题3.18】用补码一位乘计算 X = 0.1010 和 Y = -0.0110 的积 X·Y。（点击查看答案）</summary>
     <br>
-    <img src="pics/3-18-ans.png">
+    <img src="pics/3-18-ans.jpg" width=600>
     <br>
 </details>
 
@@ -119,7 +119,7 @@
 <details>
     <summary>【例题3.19】X = -0.10110，Y = 0.11111，用加减交替法原码一位除计算 X/Y 的商及余数。（点击查看答案）</summary>
     <br>
-    <img src="pics/3-19-ans.png">
+    <img src="pics/3-19-ans.jpg" width=600>
     <br>
 </details>
 
@@ -199,14 +199,14 @@
 <details>
     <summary>【例题4.5】有一个 512Kx16 的存储器，由 64Kx1 位的 2164RAM 芯片构成（芯片内是 4 个 128x128 结构），问：（点击查看答案）<br>（1）总共需要多少个 RAM 芯片？<br>（2）采用分散刷新方式，如单元刷新间隔不超过 2ms，则刷新信号的周期是多少？</summary>
     <br>
-    <img src="pics/4-5-ans.jpg">
+    <img src="pics/4-5-ans.jpg" width=600>
     <br>
 </details>
 
 <details>
     <summary>【例题4.6】某机器中，已知有一个地址空间为 0000H~1FFFH 的 ROM 区域，现在再用 RAM 芯片（8Kx4）形成一个 16Kx8 的 RAM 区域，起始地址为 2000H，假设 RAM 芯片有 CS 和 WE 信号控制端。CPU 地址总线为 A<sub>15</sub>~A<sub>0</sub>，数据总线为 D<sub>7</sub>~D<sub>0</sub>，控制信号为 R/W（读和写）和 MREQ（当存储器进行读或写操作时，该信号指示地址总线上的地址是有效的）。要求画出逻辑图。（点击查看答案）</summary>
     <br>
-    <img src="pics/4-6-ans.jpg">
+    <img src="pics/4-6-ans.jpg" width=600>
     <br>
 </details>
 
@@ -220,7 +220,7 @@
 <details>
     <summary>【例题4.12】设某主存储器访问一次存储器的时间如下：传送地址 1 个时钟周期，读/写 4 个时钟周期，数据传送 1 个时钟周期，采用下述 3 种主存结构读取 16 个字的数据块，各需多少时钟周期？（点击查看答案）<br>（1）单字宽主存，一次只能读/写 1 个字。<br>（2）4 字宽主存，一次可读写 4 个字，但 CPU 与主存的数据传送宽度为 1 个字。<br>（3）4 体交叉存储器，每个存储体为单自宽。</summary>
     <br>
-    <img src="pics/4-12-ans.jpg">
+    <img src="pics/4-12-ans.jpg" width=600>
     <br>
 </details>
 
