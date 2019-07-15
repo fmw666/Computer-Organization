@@ -1,5 +1,21 @@
-# 计算机组成原理
-&emsp;&emsp;计算机组成原理是建立在硬件基础上的一门学科。
+## [《计算机组成原理》](#welcome)知识点二度讲解📚
+
+<br>
+
+> *一切为了 **技术** 和 **考研** ！*
+
+<br>
+<div align="center">
+    <img src="pics/bookcut.jpg" width="300">
+</div>
+<br>
+
+&emsp;&emsp;💡 教材选自 《计算机组成与结构》（第5版） 王爱英 主编. 清华大学出版社, 2013. 
+
+<br>
+<div align="center">
+    <img src="pics/cutline.gif" width="50">
+</div>
 
 ## 目录
 
