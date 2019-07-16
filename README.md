@@ -109,11 +109,11 @@
 
 &emsp;&emsp;其中，机器语言和汇编语言都属于我们计算机编程语言，然而，更为我们熟悉的是另一种语言——高级语言。所以按层次来分，编程语言分为 3 类：机器语言、汇编语言和高级语言。高级语言又主要是相对于汇编语言而言的，它不是特指某一种具体的语言，而是包括很多编程语言，比如 java、C、C++、C#、python 等，它的特点是语法和结构比较接近自然语言，更类似于汉字或普通英文，比较远离对硬件的直接操作。机器语言是用二进制代码表示的计算机能直接识别和执行的一种机器指令的集合。它是计算机的设计者通过计算机的硬件结构赋予计算机的操作功能。汇编语言本质上也是直接对硬件操作，由于采用了助记符，相比机器语言更加方便书写与阅读。
 
-<div align=center><img src="pics/machine-l.jpg" width="600"><br><sup>机器语言程序示例</sup></div><br>
+<div align=center><img src="pics/machine-l.jpg" width="500"><br><sup>机器语言程序示例</sup></div><br>
 
-<div align=center><img src="pics/assembly-l.jpg" width="600"><br><sup>汇编语言程序示例</sup></div><br>
+<div align=center><img src="pics/assembly-l.jpg" width="400"><br><sup>汇编语言程序示例</sup></div><br>
 
-<div align=center><img src="pics/c-l.jpg" width="600"><br><sup>高级语言（C语言）程序示例</sup></div><br>
+<div align=center><img src="pics/c-l.jpg" width="400"><br><sup>高级语言（C语言）程序示例</sup></div><br>
 
 &emsp;&emsp;在高级语言编写的程序中，（大部分）编译器需要将其翻译成汇编语言，然后再交由计算机硬件执行（常见的此高级语言有 C 语言和 C++ 语言等）。这里有一个小问题值得思考。
 
