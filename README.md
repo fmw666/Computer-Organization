@@ -58,11 +58,11 @@
 
 &emsp;&emsp;1946 年 2 月 14 日，世界上第一台电子计算机诞生。它是由美国宾夕法尼亚大学于 1943-1946 年间研制的电子数字积分器和计算机 ENIAC（electronic numerical integrator and computer）。当时历史背景处在第二次世界大战中，美国军方为解决新武器弹道问题的复杂计算而资助了美国宾夕法尼亚大学投入研究，从而 ENIAC 计算机于 1946 年 2 月正式交付使用，是现代计算机的始祖。
 
-<div align=center><img src="pics/ENIAC.jpg" width="400"><br><sup>世界上第一台电子计算机——ENIAC</sup></div>
+<div align=center><img src="pics/ENIAC.jpg" width="400"><br><sup>世界上第一台电子计算机——ENIAC</sup></div><br>
 
 &emsp;&emsp;与 ENIAC 计算机研制的同时，1945 年 6 月，冯·诺依曼（von Neumann）提出了在数字计算机内部的存储器中存放程序的概念，这也是后面所有现代电子计算机的模板，称为“冯·诺依曼结构”。1944 年的夏天，正在火车站候车的冯·诺依曼巧遇戈尔斯坦，当时戈尔斯坦是美国弹道实验室的军方负责人，他正参与 ENIAC 计算机的研制工作。冯·诺依曼在于戈尔斯坦的交谈中，戈尔斯坦告诉了冯·诺依曼有关 ENIAC 的研制情况，冯·诺依曼被此研制计划所吸引。后冯·诺依曼由 ENIAC 机研制组的戈尔德斯廷中尉介绍参加 ENIAC 机研制小组，这一批富有创新精神的年轻科技人员便向着更高的目标进军。1945 年，他们在共同讨论的基础上，发表了一个全新的“存储程序通用电子计算机方案”--EDVAC（electronic discrete variable automatic computer），也称为冯·诺依曼型计算机。
 
-<div align=center><img src="pics/von-Neumann.jpg" width="400"><br><sup>被誉为计算机之父的冯·诺依曼</sup></div>
+<div align=center><img src="pics/von-Neumann.jpg" width="200"><br><sup>被誉为计算机之父的冯·诺依曼</sup></div><br>
 
 &emsp;&emsp;EDVAC 设计思想之一是二进制，冯·诺依曼根据电子元件的工作特点，建议在电子计算机中采用二进制。报告方案还提到了二进制的优点，并预言，二进制的采用将大大简化机器的逻辑线路。一般认为冯·诺依曼型计算机具有如下基本特点：
 
@@ -76,4 +76,4 @@
 
 &emsp;&emsp;（5）机器以运算器为中心，输入输出设备与存储器间的数据传送都通过运算器。
 
-<div align=center><img src="pics/structural.jpg" width="400"><br><sup>冯·诺依曼体系结构</sup></div>
+<div align=center><img src="pics/structural.jpg" width="400"><br><sup>冯·诺依曼体系结构</sup></div><br>
