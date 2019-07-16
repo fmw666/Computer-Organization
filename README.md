@@ -57,3 +57,5 @@
 ### 💬 计算机的诞生和发展
 
 &emsp;&emsp;1946 年 2 月 14 日，世界上第一台电子计算机诞生。它是由美国宾夕法尼亚大学于 1943-1946 年间研制的电子数字积分器和计算机 ENIAC（electronic numerical integrator and computer）。当时历史背景处在第二次世界大战中，美国军方为解决新武器弹道问题的复杂计算而资助了美国宾夕法尼亚大学投入研究，从而 ENIAC 计算机于 1946 年 2 月正式交付使用，是现代计算机的始祖。
+
+<div align=center><img src="pics/ENIAC.jpg" width="400"><br><small>ENIAC</small></div>
