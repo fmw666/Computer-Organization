@@ -48,7 +48,7 @@
 <br>
 <div align="center">
     <img src="pics/cutline.gif" width="50">
-    <h2>第一节 . __计算机系统概述__</h2>
+    <h2>第一节 . __ 计算机系统概述 __</h2>
 </div>
 <div align="right">
     <a href="#-知识点目录">返回目录⬆</a>
