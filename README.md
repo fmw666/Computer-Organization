@@ -73,7 +73,7 @@
 
 <div align=center><img src="pics/structural.jpg" width="400"><br><sup>冯·诺依曼体系结构</sup></div><br>
 
-&emsp;&emsp;根据电子计算机所采用的[物理器件](#welcome)的发展，一般把电子计算机的发展分成 5 个阶段，习惯上称为 5 代。相邻两代计算机之间时间上有重叠。
+&emsp;&emsp;根据电子计算机所采用的 [物理器件](#welcome) 的发展，一般把电子计算机的发展分成 5 个阶段，习惯上称为 5 代。相邻两代计算机之间时间上有重叠。
 
 &emsp;&emsp;第一代：电子管计算机时代（从 1946 年第一台计算机研制成功到 20 世纪 50 年代后期）。
 
@@ -134,6 +134,10 @@
 
 <div align=center><img src="pics/explain-l.jpg" width="320"><br><sup>解释型语言的执行方式</sup></div><br>
 
-> 关于这一部分的内容和学问还有许多，详细可参考[《编译原理》](#https://www.baidu.com/link?url=9mNowLeG8MiVIFJoZsd2LOTbYdUFuJ1Er8XcJ_wCRIcElEtaKJxl8rFMuW4SQ77AQX8V7e03y6bdtqQaJUHsHjBuq9nCe8yH1vlAQpYKMs4xSz39fYSjpxdme0YHU4m3&wd=&eqid=abd9c266000042ce000000035d2db9ac)这类课程进行学习。
+> 关于这一部分的内容和学问还有许多，详细可参考[《编译原理》](https://www.baidu.com/link?url=9mNowLeG8MiVIFJoZsd2LOTbYdUFuJ1Er8XcJ_wCRIcElEtaKJxl8rFMuW4SQ77AQX8V7e03y6bdtqQaJUHsHjBuq9nCe8yH1vlAQpYKMs4xSz39fYSjpxdme0YHU4m3&wd=&eqid=abd9c266000042ce000000035d2db9ac)这类课程进行学习。
 
-&emsp;&emsp;为了管理计算机硬件各部件的工作，早期开发了管理程序后发展成为操作系统。操作系统本身也是一组程序，目前一般是由系统程序员用 C++、Java 等语言编写的。大多数操作系统，比如 Windows 提供了
+&emsp;&emsp;为了管理计算机硬件各部件的工作，早期开发了管理程序后发展成为 [操作系统](#welcome)。操作系统本身也是一组程序，目前一般是由系统程序员用 C++、Java 等语言编写的。大多数操作系统，比如 Windows 提供了一种基于图形人机界面的窗口式操作环境，用户通过对屏幕上各种图形和符号的简单操作，就可以实现对计算机的使用。操作系统中控制和管理外部设备的程序称为 [BIOS](#welcome)（Basic Input Output System），它存放在主板的 ROM 上，BIOS 程序可以把在硬盘中的操纵系统加载到 RAM（运行内存）中。初次了解和学习的人可能会对上面这段话有点蒙，下面我尝试以更加通俗易懂的方式来描述一遍这个过程。
+
+&emsp;&emsp;“”
+
+### 💬 计算机网络基础
