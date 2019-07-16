@@ -132,6 +132,6 @@
 
 &emsp;&emsp;解释程序则是在将源程序的一条语句翻译成机器语言以后立即执行它（而且不再保存刚执行完的机器语言程序），然后再翻译执行下一条语句。如此重复直到程序结束。它的特点是翻译一次只能执行一次，当第二次重复执行该语句时，又要重新翻译。代表性语言如我们的 python 语言、javascript 语言等，每次执行需要将程序代码进行逐行翻译。
 
-<div align=center><img src="pics/explain-l.jpg" width="350"><br><sup>解释型语言的执行方式</sup></div><br>
+<div align=center><img src="pics/explain-l.jpg" width="320"><br><sup>解释型语言的执行方式</sup></div><br>
 
 &emsp;&emsp;
