@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-    <img src="../pics/Leibniz.jpeg" width=400>
+    <img src="../pics/Leibniz.jpeg" width=200>
 </div>
 <br>
 
